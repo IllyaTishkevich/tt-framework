@@ -1,0 +1,39 @@
+[2020-07-09 23:29:17] Message: Uncaught Error: Class 'app\controllers\Test' not found in /home/ilya/www/site.loc/vendor/ttframework/Core.php:26
+ /home/ilya/www/site.loc/vendor/ttframework/Core.php : 26
+[2020-07-09 23:29:48] Message: Uncaught Error: Call to undefined function f() in /home/ilya/www/site.loc/pub/index.php:13
+ /home/ilya/www/site.loc/pub/index.php : 13
+[2020-07-09 23:29:49] Message: Uncaught Error: Call to undefined function f() in /home/ilya/www/site.loc/pub/index.php:13
+ /home/ilya/www/site.loc/pub/index.php : 13
+[2020-07-09 23:30:06] Message: Uncaught Error: Class 'app\controllers\Test' not found in /home/ilya/www/site.loc/vendor/ttframework/Core.php:26
+ /home/ilya/www/site.loc/vendor/ttframework/Core.php : 26
+[2020-07-09 23:34:00] Message: Uncaught Error: Call to undefined function app\controllers\f() in /home/ilya/www/site.loc/app/controllers/Homepage.php:12
+ /home/ilya/www/site.loc/app/controllers/Homepage.php : 12
+[2020-07-13 00:34:22] Message: Uncaught Exception: Layout file `pub/views/core/views/404.php` not found. in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:103
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 103
+[2020-07-13 01:13:48] Message: Uncaught Exception: Layout file `pub/views/core/views/404.php` not found. in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:104
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 104
+[2020-07-13 01:13:49] Message: Uncaught Exception: Layout file `pub/views/core/views/404.php` not found. in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:104
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 104
+[2020-07-13 01:13:50] Message: Uncaught Exception: Layout file `pub/views/core/views/404.php` not found. in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:104
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 104
+[2020-07-13 01:13:50] Message: Uncaught Exception: Layout file `pub/views/core/views/404.php` not found. in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:104
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 104
+[2020-07-13 01:13:50] Message: Uncaught Exception: Layout file `pub/views/core/views/404.php` not found. in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:104
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 104
+[2020-07-27 22:46:12] Message:  /home/ilya/www/site.loc/app/controllers/Redirect.php : 13
+[2020-07-27 22:57:54] Message: Uncaught ArgumentCountError: Too few arguments to function tt\controllers\AbstractController::redirect(), 0 passed in /home/ilya/www/site.loc/app/controllers/Redirect.php on line 12 and at least 1 expected in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:176
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 176
+[2020-07-27 22:59:02] Message: Uncaught ArgumentCountError: Too few arguments to function tt\controllers\AbstractController::redirect(), 0 passed in /home/ilya/www/site.loc/app/controllers/Redirect.php on line 12 and at least 1 expected in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:176
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 176
+[2020-07-27 22:59:03] Message: Uncaught ArgumentCountError: Too few arguments to function tt\controllers\AbstractController::redirect(), 0 passed in /home/ilya/www/site.loc/app/controllers/Redirect.php on line 12 and at least 1 expected in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:176
+ /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php : 176
+[2020-07-27 23:09:18] Message: Uncaught Error: Class 'app\controllers\Test' not found in /home/ilya/www/site.loc/vendor/ttframework/Core.php:26
+ /home/ilya/www/site.loc/vendor/ttframework/Core.php : 26
+[2020-07-28 21:19:32] Message: Uncaught TypeError: Argument 1 passed to tt\AbstractObject::setData() must be of the type string or null, array given, called in /home/ilya/www/site.loc/vendor/ttframework/lib/Request.php on line 11 and defined in /home/ilya/www/site.loc/vendor/ttframework/AbstractObject.php:85
+ /home/ilya/www/site.loc/vendor/ttframework/AbstractObject.php : 85
+[2020-08-28 01:13:21] Message: Uncaught Exception: The number of arguments in the 'getText' method is incorrect. in /home/ilya/www/site.loc/vendor/ttframework/AbstractObject.php:30
+ /home/ilya/www/site.loc/vendor/ttframework/AbstractObject.php : 30
+[2020-08-28 01:26:18] Message: Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /home/ilya/www/site.loc/vendor/ttframework/lib/orm/AbstractModel.php on line 50 and exactly 1 expected in /home/ilya/www/site.loc/vendor/ttframework/lib/coreFunction.php:21
+ /home/ilya/www/site.loc/vendor/ttframework/lib/coreFunction.php : 21
+[2020-08-28 01:43:38] Message: Uncaught PDOException: SQLSTATE[HY000]: General error in /home/ilya/www/site.loc/vendor/ttframework/lib/PDO.php:105
+ /home/ilya/www/site.loc/vendor/ttframework/lib/PDO.php : 105

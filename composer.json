@@ -1,0 +1,17 @@
+{
+    "name": "relikt/ttframework",
+    "description": ":Is a mini framework. For personal needs. As well as training.",
+    "authors": [
+        {
+            "name": "Illya Tsishkevich",
+            "email": "relikt.ilya@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tt\\": "vendor/ttframework",
+            "app\\": "app"
+        }
+    }
+}

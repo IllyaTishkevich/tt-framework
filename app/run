@@ -1,0 +1,14 @@
+<?php
+ini_set('register_argc_argv', 1);
+error_reporting(E_ALL);
+ini_set('display_startup_errors', 1);
+ini_set('display_errors', '1');
+
+define("BASE_DIR", __DIR__.'/../');
+
+require BASE_DIR.'vendor/autoload.php';
+require BASE_DIR.'vendor/ttframework/lib/coreFunction.php';
+
+
+$app = new \tt\Cli();
+$app->execute();

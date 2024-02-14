@@ -1,0 +1,32 @@
+[2020-07-02 01:28:55] Alert: E_WARNING: Invalid callback core\ErrorHandler::exceptionHandler, cannot access private method core\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-09 23:29:17] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-09 23:29:48] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-09 23:29:49] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-09 23:30:06] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-09 23:34:00] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-09 23:34:20] Alert: E_NOTICE: Undefined variable: f in /home/ilya/www/site.loc/app/controllers/Homepage.php:12  line
+[2020-07-13 00:34:22] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-13 01:13:48] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-13 01:13:49] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-13 01:13:50] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-13 01:13:50] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-13 01:13:50] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-27 22:46:12] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-27 22:46:33] Alert: E_NOTICE: Undefined variable: url in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:178  line
+[2020-07-27 22:46:33] Alert: E_NOTICE: Undefined variable: permanent in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:178  line
+[2020-07-27 22:48:10] Alert: E_NOTICE: Undefined variable: url in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:180  line
+[2020-07-27 22:48:10] Alert: E_NOTICE: Undefined variable: permanent in /home/ilya/www/site.loc/vendor/ttframework/controllers/AbstractController.php:180  line
+[2020-07-27 22:57:54] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-27 22:59:02] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-27 22:59:03] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-27 23:09:18] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-28 21:19:32] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-07-29 01:04:13] Alert: E_WARNING: include(./views/maintenance.php): failed to open stream: No such file or directory in /home/ilya/www/site.loc/vendor/ttframework/Core.php:26  line
+[2020-07-29 01:04:13] Alert: E_WARNING: include(): Failed opening './views/maintenance.php' for inclusion (include_path='.:/usr/share/php') in /home/ilya/www/site.loc/vendor/ttframework/Core.php:26  line
+[2020-07-29 23:03:00] Alert: E_NOTICE: Array to string conversion in /home/ilya/www/site.loc/vendor/ttframework/Core.php:52  line
+[2020-08-28 01:13:21] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-08-28 01:18:57] Alert: E_NOTICE: Undefined index: field in /home/ilya/www/site.loc/vendor/ttframework/lib/orm/AbstractModel.php:75  line
+[2020-08-28 01:18:57] Alert: E_NOTICE: Undefined index: field in /home/ilya/www/site.loc/vendor/ttframework/lib/orm/AbstractModel.php:75  line
+[2020-08-28 01:18:57] Alert: E_NOTICE: Undefined index: field in /home/ilya/www/site.loc/vendor/ttframework/lib/orm/AbstractModel.php:75  line
+[2020-08-28 01:26:18] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
+[2020-08-28 01:43:38] Alert: E_WARNING: Invalid callback tt\ErrorHandler::exceptionHandler, cannot access private method tt\ErrorHandler::exceptionHandler() in Unknown:0  line
